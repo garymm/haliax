@@ -1,3 +1,7 @@
+## NOTE
+
+Development has moved into https://github.com/marin-community/marin monorepo. Please submit PRs there.
+
 <!--haliax-intro-start-->
 # Haliax
 
